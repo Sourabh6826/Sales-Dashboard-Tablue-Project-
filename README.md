@@ -1,4 +1,5 @@
-Sales Dashboard | Dashboard link : https://public.tableau.com/app/profile/sourabh.m2263/viz/shared/6MM963CKC 
+Sales Dashboard | Dashboard link : https://public.tableau.com/app/profile/sourabh.m2263/viz/shared/6MM963CKC
+
 Dashboard Purpose
 The purpose of sales dashboard is to present an overview of the sales metrics and trends in order to analyze year-over-year sales performance and understand sales trends.
 KPI Overview

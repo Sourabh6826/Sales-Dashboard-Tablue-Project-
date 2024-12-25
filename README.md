@@ -27,3 +27,8 @@ Weekly Trends for Sales & Profit :
  – Display the average weekly values.
  
  – Highlight weeks that are above and below the average to draw attention to sales & profit performance.
+
+ 
+Dashboard Dynamic :
+
+ – The Dashboard should allow users to check historical data by offering them the flexibility to select any desired year.
